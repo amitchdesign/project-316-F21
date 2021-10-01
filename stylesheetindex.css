@@ -1,5 +1,6 @@
 p {
-background-color: gray;
+  color: white;
+  background-color: gray;
   width: 500px;
   text-align: center;
 }
